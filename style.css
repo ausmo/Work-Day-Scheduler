@@ -5,7 +5,7 @@ body {
 }
 
 textarea {
-  background: rgb(243, 245, 245);
+  background: rgb(71, 71, 71);
   border: none;
   resize: none;
   color: #000000;
@@ -37,23 +37,23 @@ textarea {
 }
 
 .hour {
-  background-color: #ffffff;
+  background-color: #feffb5;
   color: #000000;
   border-top: 1px dashed #000000;
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #b6b3b3;
   color: white;
 }
 
 .present {
-  background-color: #f9a6a2;
+  background-color: #b3ffbd;
   color: white;
 }
 
 .future {
-  background-color: #bcf6bc;
+  background-color: #ffb7b7;
   color: white;
 }
 
